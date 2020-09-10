@@ -215,7 +215,7 @@
 | [ModuleNet: Knowledge-inherited Neural Architecture Search(Chen et al. 2020) ](https://arxiv.org/abs/2004.05020)   | - | - |
 | [Evolutionary recurrent neural network for image captioning(Wang et al. 2020) ](https://www.sciencedirect.com/science/article/abs/pii/S0925231220304744)  <br>*accepted at Neurocomputing*  | - | - |
 | [Neural Architecture Search for Lightweight Non-Local Networks(Li et al. 2020) ](https://arxiv.org/abs/2004.01961)   | - | - |
-| [A Generic Graph-based Neural Architecture Encoding Scheme for Predictor-based NAS(Ning et al. 2020) ](https://arxiv.org/abs/2004.01899)   | - | - |
+| [A Generic Graph-based Neural Architecture Encoding Scheme for Predictor-based NAS(Ning et al. 2020) ](https://arxiv.org/abs/2004.01899) <br>accepted at ECCV 2020  | - | [Github](https://github.com/walkerning/aw_nas) |
 | [FedNAS: Federated Deep Learning via Neural Architecture Search(He et al. 2020) ](https://chaoyanghe.com/publications/FedNAS-CVPR2020-NAS.pdf)  <br>*accepted at CVPR 2020 Workshop on Neural Architecture Search and Beyond for Representation Learning*  | - | - |
 | [Neural architecture search based on model pool for wildlife identification(Jia et al. 2020) ](https://www.sciencedirect.com/science/article/abs/pii/S092523122030388X)  <br>*accepted at Neurocomputing*  | - | - |
 | [An Evolutionary Approach to Variational Autoencoders(Hajewski and Oliveira. 2020) ](https://ieeexplore.ieee.org/abstract/document/9031239)  <br>*accepted at CCWC’20*  | - | - |
@@ -706,4 +706,4 @@
 | [Designing Neural Networks Using Genetic Algorithms with Graph Generation System(Kitano, 1990) ](http://www.complex-systems.com/abstracts/v04_i04_a06/)   | - | - |
 | [Designing Neural Networks using Genetic Algorithms(Miller et al. 1989) ](https://dl.acm.org/citation.cfm?id=94034)  <br>*accepted at ICGA’89*  | - | - |
 | [The Cascade-Correlation Learning Architecture(Fahlman and Leblere, 1989) ](https://papers.nips.cc/paper/207-the-cascade-correlation-learning-architecture)  <br>*accepted at NeurIPS’89*  | - | - |
-| [Self Organizing Neural Networks for the Identification Problem(Tenorio and Lee, 1988) ](https://papers.nips.cc/paper/149-self-organizing-neural-networks-for-the-identification-problem)  <br>*accepted at NeurIPS’88*  | - | - |
+e [Self Organizing Neural Networks for the Identification Problem(Tenorio and Lee, 1988) ](https://papers.nips.cc/paper/149-self-organizing-neural-networks-for-the-identification-problem)  <br>*accepted at NeurIPS’88*  | - | - |
